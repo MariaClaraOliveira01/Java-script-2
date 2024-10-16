@@ -1,5 +1,5 @@
 function alterarCirculo(){
-    const circulo= document.getElementByld('circulo')
+    const circ= document.getElementByld('circulo')
 
     const corAleatoria =  '#' + 
     Math.floor(Math.random()*16777215).toString(16);
