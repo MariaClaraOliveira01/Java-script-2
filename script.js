@@ -1,4 +1,4 @@
-function alteraCirculo(){
+function alterarCirculo(){
     const circulo= document.getElementByld('circulo')
 
     const corAleatoria=  '#' + 
